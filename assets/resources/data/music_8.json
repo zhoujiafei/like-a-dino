@@ -1,0 +1,978 @@
+[
+    {
+        "trackType": 0,
+        "timePoint": 5.03510000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 5.084300000000745
+    },
+    {
+        "trackType": 1,
+        "timePoint": 5.852699999999254
+    },
+    {
+        "trackType": 1,
+        "timePoint": 6.816300000000745
+    },
+    {
+        "trackType": 1,
+        "timePoint": 6.86710000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 7.25089999999851
+    },
+    {
+        "trackType": 2,
+        "timePoint": 7.316699999999254
+    },
+    {
+        "trackType": 1,
+        "timePoint": 7.767399999998509
+    },
+    {
+        "trackType": 0,
+        "timePoint": 8.233500000000001
+    },
+    {
+        "trackType": 0,
+        "timePoint": 8.282800000000746
+    },
+    {
+        "trackType": 0,
+        "timePoint": 8.83289999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 8.9
+    },
+    {
+        "trackType": 0,
+        "timePoint": 9.476500000000001
+    },
+    {
+        "trackType": 0,
+        "timePoint": 9.533800000000745
+    },
+    {
+        "trackType": 0,
+        "timePoint": 9.833600000001491
+    },
+    {
+        "trackType": 1,
+        "timePoint": 10.96560000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 11.01639999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 11.399699999999255
+    },
+    {
+        "trackType": 1,
+        "timePoint": 12.139000000000001
+    },
+    {
+        "trackType": 0,
+        "timePoint": 12.45260000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 12.517100000001491
+    },
+    {
+        "trackType": 1,
+        "timePoint": 12.851800000000745
+    },
+    {
+        "trackType": 1,
+        "timePoint": 12.916800000000746
+    },
+    {
+        "trackType": 0,
+        "timePoint": 13.252600000001491
+    },
+    {
+        "trackType": 0,
+        "timePoint": 13.31689999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 13.799000000000001
+    },
+    {
+        "trackType": 1,
+        "timePoint": 13.850800000000746
+    },
+    {
+        "trackType": 0,
+        "timePoint": 14.317199999999255
+    },
+    {
+        "trackType": 0,
+        "timePoint": 14.36689999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 14.433500000000002
+    },
+    {
+        "trackType": 1,
+        "timePoint": 14.834699999999255
+    },
+    {
+        "trackType": 1,
+        "timePoint": 14.900500000000001
+    },
+    {
+        "trackType": 2,
+        "timePoint": 15.2895
+    },
+    {
+        "trackType": 2,
+        "timePoint": 15.350199999999255
+    },
+    {
+        "trackType": 0,
+        "timePoint": 15.6345
+    },
+    {
+        "trackType": 0,
+        "timePoint": 15.7
+    },
+    {
+        "trackType": 1,
+        "timePoint": 16.967000000000002
+    },
+    {
+        "trackType": 1,
+        "timePoint": 17.016800000000746
+    },
+    {
+        "trackType": 0,
+        "timePoint": 17.836800000000746
+    },
+    {
+        "trackType": 0,
+        "timePoint": 17.900199999999256
+    },
+    {
+        "trackType": 0,
+        "timePoint": 17.991199999999257
+    },
+    {
+        "trackType": 0,
+        "timePoint": 18.050300000000746
+    },
+    {
+        "trackType": 1,
+        "timePoint": 18.318399999998512
+    },
+    {
+        "trackType": 1,
+        "timePoint": 18.38360000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 18.90210000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 19.323300000000746
+    },
+    {
+        "trackType": 0,
+        "timePoint": 19.3825
+    },
+    {
+        "trackType": 1,
+        "timePoint": 19.819699999999255
+    },
+    {
+        "trackType": 1,
+        "timePoint": 19.883199999999256
+    },
+    {
+        "trackType": 2,
+        "timePoint": 20.369199999999257
+    },
+    {
+        "trackType": 2,
+        "timePoint": 20.433699999999256
+    },
+    {
+        "trackType": 1,
+        "timePoint": 20.851800000000747
+    },
+    {
+        "trackType": 1,
+        "timePoint": 20.916699999999256
+    },
+    {
+        "trackType": 0,
+        "timePoint": 21.382800000000746
+    },
+    {
+        "trackType": 0,
+        "timePoint": 21.43360000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 21.822199999999256
+    },
+    {
+        "trackType": 1,
+        "timePoint": 21.883199999999256
+    },
+    {
+        "trackType": 0,
+        "timePoint": 22.36810000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 22.433500000000002
+    },
+    {
+        "trackType": 1,
+        "timePoint": 22.80110000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 22.866800000000747
+    },
+    {
+        "trackType": 2,
+        "timePoint": 23.24760000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 23.299199999999257
+    },
+    {
+        "trackType": 2,
+        "timePoint": 23.36539999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 24.471300000000745
+    },
+    {
+        "trackType": 1,
+        "timePoint": 24.53339999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 24.685699999999255
+    },
+    {
+        "trackType": 0,
+        "timePoint": 24.750199999999257
+    },
+    {
+        "trackType": 1,
+        "timePoint": 25.3545
+    },
+    {
+        "trackType": 1,
+        "timePoint": 25.415800000000747
+    },
+    {
+        "trackType": 0,
+        "timePoint": 25.81889999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 25.8835
+    },
+    {
+        "trackType": 1,
+        "timePoint": 26.23810000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 26.30010000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 26.76810000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 26.832699999999257
+    },
+    {
+        "trackType": 1,
+        "timePoint": 27.31939999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 27.38339999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 27.82060000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 27.88310000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 28.321600000001492
+    },
+    {
+        "trackType": 1,
+        "timePoint": 28.383300000000744
+    },
+    {
+        "trackType": 1,
+        "timePoint": 28.820699999999256
+    },
+    {
+        "trackType": 1,
+        "timePoint": 28.883300000000744
+    },
+    {
+        "trackType": 1,
+        "timePoint": 29.26760000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 29.3325
+    },
+    {
+        "trackType": 1,
+        "timePoint": 29.400000000000002
+    },
+    {
+        "trackType": 0,
+        "timePoint": 29.804199999999256
+    },
+    {
+        "trackType": 0,
+        "timePoint": 29.866699999999256
+    },
+    {
+        "trackType": 1,
+        "timePoint": 30.25260000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 30.316
+    },
+    {
+        "trackType": 1,
+        "timePoint": 30.754300000000747
+    },
+    {
+        "trackType": 1,
+        "timePoint": 30.816600000001493
+    },
+    {
+        "trackType": 1,
+        "timePoint": 30.88219999999926
+    },
+    {
+        "trackType": 1,
+        "timePoint": 30.949899999998507
+    },
+    {
+        "trackType": 1,
+        "timePoint": 31.334300000000745
+    },
+    {
+        "trackType": 1,
+        "timePoint": 31.400100000001494
+    },
+    {
+        "trackType": 0,
+        "timePoint": 31.813300000000744
+    },
+    {
+        "trackType": 0,
+        "timePoint": 31.866100000001488
+    },
+    {
+        "trackType": 0,
+        "timePoint": 31.933199999999253
+    },
+    {
+        "trackType": 0,
+        "timePoint": 32.33989999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 32.400100000001494
+    },
+    {
+        "trackType": 0,
+        "timePoint": 32.466800000000745
+    },
+    {
+        "trackType": 0,
+        "timePoint": 32.607699999999255
+    },
+    {
+        "trackType": 0,
+        "timePoint": 32.66669999999925
+    },
+    {
+        "trackType": 0,
+        "timePoint": 32.73339999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 32.80019999999926
+    },
+    {
+        "trackType": 1,
+        "timePoint": 33.248
+    },
+    {
+        "trackType": 1,
+        "timePoint": 33.3
+    },
+    {
+        "trackType": 1,
+        "timePoint": 33.366699999999256
+    },
+    {
+        "trackType": 0,
+        "timePoint": 33.76810000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 33.8335
+    },
+    {
+        "trackType": 0,
+        "timePoint": 33.900100000001494
+    },
+    {
+        "trackType": 1,
+        "timePoint": 34.168
+    },
+    {
+        "trackType": 1,
+        "timePoint": 34.2335
+    },
+    {
+        "trackType": 1,
+        "timePoint": 34.3
+    },
+    {
+        "trackType": 2,
+        "timePoint": 34.60330000000074
+    },
+    {
+        "trackType": 2,
+        "timePoint": 34.66669999999925
+    },
+    {
+        "trackType": 2,
+        "timePoint": 34.733300000000746
+    },
+    {
+        "trackType": 2,
+        "timePoint": 34.80010000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 34.94110000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 35.002
+    },
+    {
+        "trackType": 2,
+        "timePoint": 35.066199999999256
+    },
+    {
+        "trackType": 2,
+        "timePoint": 35.1555
+    },
+    {
+        "trackType": 2,
+        "timePoint": 35.2165
+    },
+    {
+        "trackType": 2,
+        "timePoint": 35.28239999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 35.785300000000746
+    },
+    {
+        "trackType": 1,
+        "timePoint": 35.84989999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 36.26330000000075
+    },
+    {
+        "trackType": 0,
+        "timePoint": 36.316199999999256
+    },
+    {
+        "trackType": 1,
+        "timePoint": 36.71810000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 36.78310000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 36.93780000000075
+    },
+    {
+        "trackType": 1,
+        "timePoint": 36.99989999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 37.303300000000746
+    },
+    {
+        "trackType": 1,
+        "timePoint": 37.366399999998514
+    },
+    {
+        "trackType": 0,
+        "timePoint": 37.80110000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 37.86589999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 38.22439999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 38.28330000000074
+    },
+    {
+        "trackType": 1,
+        "timePoint": 38.34939999999851
+    },
+    {
+        "trackType": 2,
+        "timePoint": 38.762800000000745
+    },
+    {
+        "trackType": 2,
+        "timePoint": 38.8165
+    },
+    {
+        "trackType": 1,
+        "timePoint": 39.213800000000745
+    },
+    {
+        "trackType": 1,
+        "timePoint": 39.26660000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 39.39960000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 39.450199999999256
+    },
+    {
+        "trackType": 0,
+        "timePoint": 40.04989999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 40.09989999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 40.31680000000075
+    },
+    {
+        "trackType": 0,
+        "timePoint": 40.36660000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 40.83639999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 40.9
+    },
+    {
+        "trackType": 1,
+        "timePoint": 41.50160000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 41.566199999999256
+    },
+    {
+        "trackType": 1,
+        "timePoint": 41.707800000000745
+    },
+    {
+        "trackType": 1,
+        "timePoint": 41.76660000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 41.8845
+    },
+    {
+        "trackType": 0,
+        "timePoint": 42.335
+    },
+    {
+        "trackType": 0,
+        "timePoint": 42.39989999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 42.835
+    },
+    {
+        "trackType": 1,
+        "timePoint": 42.9
+    },
+    {
+        "trackType": 1,
+        "timePoint": 42.97410000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 43.04930000000075
+    },
+    {
+        "trackType": 0,
+        "timePoint": 43.39089999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 43.449699999999254
+    },
+    {
+        "trackType": 0,
+        "timePoint": 43.82180000000075
+    },
+    {
+        "trackType": 0,
+        "timePoint": 43.883199999999256
+    },
+    {
+        "trackType": 0,
+        "timePoint": 43.95
+    },
+    {
+        "trackType": 1,
+        "timePoint": 44.30610000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 44.3665
+    },
+    {
+        "trackType": 1,
+        "timePoint": 44.81239999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 44.8665
+    },
+    {
+        "trackType": 1,
+        "timePoint": 44.931899999998514
+    },
+    {
+        "trackType": 2,
+        "timePoint": 45.23530000000075
+    },
+    {
+        "trackType": 2,
+        "timePoint": 45.29989999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 45.83380000000074
+    },
+    {
+        "trackType": 1,
+        "timePoint": 45.899800000000745
+    },
+    {
+        "trackType": 0,
+        "timePoint": 46.8
+    },
+    {
+        "trackType": 0,
+        "timePoint": 46.85
+    },
+    {
+        "trackType": 1,
+        "timePoint": 47.271
+    },
+    {
+        "trackType": 1,
+        "timePoint": 47.333100000001494
+    },
+    {
+        "trackType": 1,
+        "timePoint": 47.81519999999926
+    },
+    {
+        "trackType": 1,
+        "timePoint": 47.8665
+    },
+    {
+        "trackType": 2,
+        "timePoint": 48.25310000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 48.31660000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 48.38310000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 48.45280000000074
+    },
+    {
+        "trackType": 1,
+        "timePoint": 48.51630000000075
+    },
+    {
+        "trackType": 1,
+        "timePoint": 48.802399999998514
+    },
+    {
+        "trackType": 1,
+        "timePoint": 48.866399999998514
+    },
+    {
+        "trackType": 0,
+        "timePoint": 49.35389999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 49.4155
+    },
+    {
+        "trackType": 1,
+        "timePoint": 49.884199999999254
+    },
+    {
+        "trackType": 1,
+        "timePoint": 49.94989999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 50.349300000000746
+    },
+    {
+        "trackType": 0,
+        "timePoint": 50.399800000000745
+    },
+    {
+        "trackType": 0,
+        "timePoint": 50.46639999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 50.75360000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 50.8165
+    },
+    {
+        "trackType": 0,
+        "timePoint": 50.98639999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 51.156
+    },
+    {
+        "trackType": 0,
+        "timePoint": 51.21639999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 51.72169999999925
+    },
+    {
+        "trackType": 1,
+        "timePoint": 51.78289999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 52.29839999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 52.34989999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 52.802699999999255
+    },
+    {
+        "trackType": 1,
+        "timePoint": 52.86560000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 53.07419999999926
+    },
+    {
+        "trackType": 1,
+        "timePoint": 53.13260000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 53.45130000000074
+    },
+    {
+        "trackType": 2,
+        "timePoint": 53.5165
+    },
+    {
+        "trackType": 1,
+        "timePoint": 53.803899999998514
+    },
+    {
+        "trackType": 1,
+        "timePoint": 53.86560000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 54.00410000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 54.0665
+    },
+    {
+        "trackType": 0,
+        "timePoint": 54.34839999999851
+    },
+    {
+        "trackType": 0,
+        "timePoint": 54.39969999999926
+    },
+    {
+        "trackType": 1,
+        "timePoint": 54.850800000000746
+    },
+    {
+        "trackType": 0,
+        "timePoint": 55.35110000000149
+    },
+    {
+        "trackType": 0,
+        "timePoint": 55.41580000000074
+    },
+    {
+        "trackType": 1,
+        "timePoint": 55.869800000000744
+    },
+    {
+        "trackType": 1,
+        "timePoint": 55.93289999999851
+    },
+    {
+        "trackType": 1,
+        "timePoint": 56.287699999999255
+    },
+    {
+        "trackType": 1,
+        "timePoint": 56.34980000000075
+    },
+    {
+        "trackType": 2,
+        "timePoint": 56.841800000000745
+    },
+    {
+        "trackType": 2,
+        "timePoint": 56.89969999999926
+    },
+    {
+        "trackType": 2,
+        "timePoint": 56.96639999999851
+    },
+    {
+        "trackType": 2,
+        "timePoint": 57.251
+    },
+    {
+        "trackType": 2,
+        "timePoint": 57.3165
+    },
+    {
+        "trackType": 2,
+        "timePoint": 57.38230000000075
+    },
+    {
+        "trackType": 1,
+        "timePoint": 57.78460000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 57.84960000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 57.91619999999926
+    },
+    {
+        "trackType": 0,
+        "timePoint": 58.303
+    },
+    {
+        "trackType": 0,
+        "timePoint": 58.36619999999925
+    },
+    {
+        "trackType": 0,
+        "timePoint": 58.848
+    },
+    {
+        "trackType": 0,
+        "timePoint": 58.8995
+    },
+    {
+        "trackType": 1,
+        "timePoint": 59.38660000000149
+    },
+    {
+        "trackType": 1,
+        "timePoint": 59.44919999999926
+    },
+    {
+        "trackType": 2,
+        "timePoint": 60.50210000000149
+    },
+    {
+        "trackType": 2,
+        "timePoint": 60.566199999999256
+    },
+    {
+        "trackType": 2,
+        "timePoint": 60.63280000000075
+    }
+]
