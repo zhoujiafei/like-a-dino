@@ -1,15 +1,15 @@
 ### 项目介绍
 
-本项目是使用Cocos Creator 3.8.6开发的一个简单的游戏，游戏名称为Like A Dino。
+本项目是使用Cocos Creator 3.8.6 做的复刻版《Like A Dino》小游戏，欢迎cocos creator 开发者交流学习，比较简单，适合初学者。
 
-### 项目地址
+### 项目截图
 
-[https://github.com/zhoujiafei/LikeADino](https://github.com/zhoujiafei/LikeADino)
+![首页](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eac1898m8q.png)
+![游戏界面](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957ebc2b2ro69.png)
+![游戏结束](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eabd607g1r.png)
+![选择角色](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eb4ab9n4vh.png)
+![选择曲目](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eb0fbesejh.png)
 
 ### 我的公众号
 
 ![我的公众号](https://yoss.iyunxh.com/pics/1/20101/2026/0226/69a05972e357bizkq.jpg)
-
-### B站配套教程
-
-[程序员加菲猫](https://space.bilibili.com/546864709?spm_id_from=333.40164.0.0)
