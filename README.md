@@ -13,3 +13,7 @@
 ### 我的公众号
 
 ![我的公众号](https://yoss.iyunxh.com/pics/1/20101/2026/0226/69a05972e357bizkq.jpg)
+
+### B站视频教程
+
+[程序员加菲猫](https://www.bilibili.com/video/BV1vmAqzdEbp/?vd_source=1f64e702794753231038954fae2a0e78)
