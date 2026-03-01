@@ -4,11 +4,11 @@
 
 ### 项目截图
 
-![首页](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eac1898m8q.png)
-![游戏界面](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957ebc2b2ro69.png)
-![游戏结束](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eabd607g1r.png)
-![选择角色](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eb4ab9n4vh.png)
-![选择曲目](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eb0fbesejh.png)
+![首页](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eac1898m8q.png?x-image-process=image/resize,limit_0,w_200)
+![游戏界面](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957ebc2b2ro69.png?x-image-process=image/resize,limit_0,w_200)
+![游戏结束](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eabd607g1r.png?x-image-process=image/resize,limit_0,w_200)
+![选择角色](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eb4ab9n4vh.png?x-image-process=image/resize,limit_0,w_200)
+![选择曲目](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3957eb0fbesejh.png?x-image-process=image/resize,limit_0,w_200)
 
 ### 我的公众号
 
