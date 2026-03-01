@@ -13,7 +13,8 @@
 ### DEMO演示
 
 [DEMO演示](https://mz1xv.y-h5.iyunxh.com/ygame/like_a_dino/?_t=2026)
-![演示二维码](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3e931690ceurjs.png)
+
+![演示二维码](https://yoss.iyunxh.com/pics/1/20101/2026/0301/69a3e931690ceurjs.png?x-image-process=image/resize,limit_0,m_fill,w_200,h_200)
 
 ### 我的公众号
 
