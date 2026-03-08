@@ -97,8 +97,10 @@ export class GameSceneControl extends Component {
   replayGame() {
     //预留2秒之后再开始游戏
     this.scheduleOnce(() => {
-      //速度的倍率增加0.2
-      GlobalData.speedRate += GlobalData.speedRateAdd
+      //速度的倍率增加0.2（保留小数点一位）
+      GlobalData.speedRate = Number(
+        (GlobalData.speedRate + GlobalData.speedRateAdd).toFixed(1)
+      )
       //开始游戏
       this.startGame()
     }, 2)
